@@ -1,0 +1,6 @@
+[book]
+authors = ["Batmend Batsaikhan"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Teaching CP(P) to a Third Grader"
